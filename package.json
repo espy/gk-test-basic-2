@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "test-dep": "1.5.0",
+    "hapi": "14.0.0",
+    "npm": "4.0.0"
+  },
+  "scripts": {
+    "test": "node index.js",
+    "bla": "blub"
+  }
+}
